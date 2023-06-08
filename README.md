@@ -29,4 +29,5 @@ Com isso ele cria o projeto na pasta desejada, movemos para pasta e executamos p
 
 cd <nome da projeto>
 npm install
+npm install axios
 npm run dev
